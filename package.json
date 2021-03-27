@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-phone",
+  "name": "reactphone",
   "author": "Bassem",
   "module": "dist/react-phone.esm.js",
   "size-limit": [
