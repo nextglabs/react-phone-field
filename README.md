@@ -18,13 +18,13 @@ The component plays very well with frameworks such as [styled-components](https:
 Install the component
 
 ```bash
-yarn add react-phone # or `npm i react-phone`
+yarn add react-phone-field # or `npm i react-phone-field`
 ```
 
 Use it as you wish
 
 ```js
-import { ReactPhone } from 'react-phone'
+import { ReactPhone } from 'react-phone-field'
 import { CustomMenu } from './Menu';
 import { CustomMenuButton } from './MenuButton';
 ....
